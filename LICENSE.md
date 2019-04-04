@@ -12,7 +12,7 @@ information has been included in the files themselves.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR 
-A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+A PARTICULAR PURPOSE. See the GNU General Public License for more details. TEST
 
 The GNU General Public License, Version 2, June 1991 (GPLv2)
 ============================================================
